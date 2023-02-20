@@ -10,8 +10,8 @@ namespace Tasks
     {
         static void Main(string[] args)
         {
-            string line;
-            line = Console.ReadLine();
+            Console.Write("Введите строку: ");
+            string line = Console.ReadLine();
 
 
 
